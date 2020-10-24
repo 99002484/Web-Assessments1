@@ -1,0 +1,6 @@
+[{"hotelName":"Hyderabad Paradise","hotelCity":"Hyderabad","hotelType":"Nog-Veg","hotelCusine":"Indian"},
+    {"hotelName":"Kathi Roll","hotelCity":"Kolkata","hotelType":"Veg","hotelCusine":"Indian"},
+    {"hotelName":"Pasta Palace","hotelCity":"Mysore","hotelType":"Non-Veg","hotelCusine":"Italian"},
+    {"hotelName":"Tacos","hotelCity":"Bangalore","hotelType":"Non-Veg","hotelCusine":"Italian"},
+    {"hotelName":"Dominos","hotelCity":"Mumbai","hotelType":"Non-Veg","hotelCusine":"Mexican"}
+    ]
